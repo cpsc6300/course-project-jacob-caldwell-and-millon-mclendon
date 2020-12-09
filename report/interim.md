@@ -3,7 +3,7 @@
 ## Date: 11/12/2020
 
 # Project Description
-## Probelm Statement and Motivation
+## Problem Statement and Motivation
 We aim to analyze MLB data to better come up with a plan to form a winning forumla and improve a teams overall odds of winning. This motivation comes from our love for sports and simply wanting to improve our "teams" chances of winning.
 
 ## Introduction and Description of Data
