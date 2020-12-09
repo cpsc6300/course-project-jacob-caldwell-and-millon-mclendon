@@ -11,11 +11,17 @@ This problem is important because there has been a recent shift within professio
 
 This problem is challenging because there are multiple statistics that are used in collaboration with others that help teams to determine a player's worth. We are attempting to use some of these statistics to help better gauge a player's worth to the team, which is a challenging and complex problem that many teams are still trying to solve
 
-## Literature Review/Related Work 
-This could include noting any key papers, texts, or websites that you have used to develop your modeling approach, as well as what others have done on this problem in the past. You must properly credit sources.
+## Literature Review/Related Work
+The literature we collected during our project mainly reflected different approaches researchers used to make inferences on games, but also trying to gain knowledge of the angles used and possibly new angles to come from.
+
+[1] Valero, C. S. (2016). Predicting Win-Loss outcomes in MLB regular season games–A comparative study using data mining methods. International Journal of Computer Science in Sport, 15(2), 91-112.
+
+[2] Sommers, P. M. (2008). The changing hitting performance profile in major league baseball, 1966-2006. Journal of Sports Economics, 9(4), 435-440.
+
+[3] “Scikit-Learn Tutorial: Baseball Analytics in Python Pt 1.” DataCamp Community, www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1. 
 
 ## Interim Results
-To start with, we began to determine the specific stat that we wanted to find and compare between different players. We decided to look into how well each player bats and compare each player's batting average as a way to show their individually value. The batting average was not something that was given in the data frame, so we had to calculate this value ourselves. To do this, we took the values of "Hits" and divided them by their accompanying values "At Bats". We were then able to get a better comparison between each players and were able to narrow our results. We also decided to eliminate outliers by dropping any rows that did not have a set minimum number of At Bats, as a way to make sure people that batted only a handful of times did not have a very large or small Batting Average.  
+If you have some interim results or new findings, you can include them here.
 
 # Project Progress
 This could include the __revised__ major timeline and milestones of your project as well as requirements of computing and storage resources. 
