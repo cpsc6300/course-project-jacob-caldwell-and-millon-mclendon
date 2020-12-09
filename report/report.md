@@ -1,8 +1,8 @@
 
 
-# TITLE:
-## Team Members:
-## Date:
+# TITLE: 
+## Team Members: Millon Mclendon and Jacob Caldwell
+## Date: 12/10/2020
 
 # Probelm Statement and Motivation
 This should be a brief and self-contained decription of the problem that your project aims to solve and what motivated you to solve this problem.
