@@ -5,7 +5,7 @@
 ## Date: 12/10/2020
 
 # Probelm Statement and Motivation
-This should be a brief and self-contained decription of the problem that your project aims to solve and what motivated you to solve this problem.
+We aim to analyze MLB data to better come up with a plan to form a winning forumla and improve a teams overall odds of winning. This motivation comes from our love for sports and simply wanting to improve our "teams" chances of winning.
 
 # Introduction and Description of Data
 Description of relevant knowledge. Why is this problem important? Why is it challenging? Introduce the motivations for the project question and how that question was defined through preliminary EDA.
