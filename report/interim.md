@@ -23,4 +23,4 @@ This could include the __revised__ major timeline and milestones of your project
 This may also include a brief summary of your team's progress on the project and a candid reflection of what's gone wrong and what's gone right, and what efforts that your team have taken or are going to takea to overcome any issue that comes out during the course of the project.
 
 # References:
-This could include the revised key papers, texts, or websites that you may use to develop your project.
+https://data.world/makeovermonday/2019w19/workspace/file?filename=MLB%20Stats.csv We will be using data.world for most of our csv files on MLB statistics and also adding more research papers in the future.
