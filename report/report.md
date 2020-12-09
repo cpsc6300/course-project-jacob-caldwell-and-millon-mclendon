@@ -34,7 +34,7 @@ Finally, give some interpretation. What do your results mean? What impact will y
 Summarize your results, the strengths and short-comings of your results, and speculate on how you might address these short-comings if given more time.
 
 # References:
-This could include the revised key papers, texts, or websites that you may use to develop your project.
+https://data.world/makeovermonday/2019w19/workspace/file?filename=MLB%20Stats.csv We will be using data.world for most of our csv files on MLB statistics and also adding more research papers in the future.
 
 # Support Materials
 Provide a list of materials that support your project, for example, the notebooks and data sources.
