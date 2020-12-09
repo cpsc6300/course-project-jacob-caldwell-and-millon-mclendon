@@ -1,6 +1,6 @@
 # TITLE:
-## Team Members:
-## Date:
+## Team Members:Jacob Caldwell & Millon Mclendon
+## Date: 12/10/2020
 
 # Project Description
 ## Probelm Statement and Motivation
