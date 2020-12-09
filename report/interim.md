@@ -21,7 +21,7 @@ The literature we collected during our project mainly reflected different approa
 [3] “Scikit-Learn Tutorial: Baseball Analytics in Python Pt 1.” DataCamp Community, www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1. 
 
 ## Interim Results
-If you have some interim results or new findings, you can include them here.
+To start with, we began to determine the specific stat that we wanted to find and compare between different players. We decided to look into how well each player bats and compare each player's batting average as a way to show their individually value. The batting average was not something that was given in the data frame, so we had to calculate this value ourselves. To do this, we took the values of "Hits" and divided them by their accompanying values "At Bats". We were then able to get a better comparison between each players and were able to narrow our results. We also decided to eliminate outliers by dropping any rows that did not have a set minimum number of At Bats, as a way to make sure people that batted only a handful of times did not have a very large or small Batting Average.  
 
 # Project Progress
 This could include the __revised__ major timeline and milestones of your project as well as requirements of computing and storage resources. 
