@@ -24,9 +24,7 @@ The literature we collected during our project mainly reflected different approa
 To start with, we began to determine the specific stat that we wanted to find and compare between different players. We decided to look into how well each player bats and compare each player's batting average as a way to show their individually value. The batting average was not something that was given in the data frame, so we had to calculate this value ourselves. To do this, we took the values of "Hits" and divided them by their accompanying values "At Bats". We were then able to get a better comparison between each players and were able to narrow our results. We also decided to eliminate outliers by dropping any rows that did not have a set minimum number of At Bats, as a way to make sure people that batted only a handful of times did not have a very large or small Batting Average.  
 
 # Project Progress
-This could include the __revised__ major timeline and milestones of your project as well as requirements of computing and storage resources. 
-
-This may also include a brief summary of your team's progress on the project and a candid reflection of what's gone wrong and what's gone right, and what efforts that your team have taken or are going to takea to overcome any issue that comes out during the course of the project.
+So far on the project we have made good progress with cleaning the data and validating that our data is accurate. We have began to notice that our original plan was to correlate many different stats so we could make inferances on which players will be the "better" hitters next season. Upon doing this we realized some problems that came into scope. We realized that the infferences we were making could not be very accurate and the amount of variables needed to create a accurate model. In seeing this we revisioned our goal and decided to shrink our scope which help a lot when it cames to creating models.
 
 # References:
 https://data.world/makeovermonday/2019w19/workspace/file?filename=MLB%20Stats.csv We will be using data.world for most of our csv files on MLB statistics and also adding more research papers in the future.
