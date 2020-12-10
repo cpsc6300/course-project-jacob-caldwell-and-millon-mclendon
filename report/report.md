@@ -60,7 +60,7 @@ https://data.world/makeovermonday/2019w19/workspace/file?filename=MLB%20Stats.cs
 # Support Materials
 + juypter notebook title project.ipynb
 + All pictures contained in the folder ~/Figs
-+ mlb.csv obtained from data.world
++ train.csv obtained from data.world
 
 # Declaration of academic integrity and responsibility
 
