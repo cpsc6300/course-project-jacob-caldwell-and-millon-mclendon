@@ -48,6 +48,9 @@ Next, show your results. How well does your model and/or implementation perform?
 ![Run per year](figs/runs.png "Runs per year")
 <center>Fig 2. Runs per Year Trend</center>
 
+![Runs vs Ab](figs/runVab.png "Runs vs At Bats")
+<center>Fig 3. Runs Versus At Bats Correllation</center>
+
 Finally, give some interpretation. What do your results mean? What impact will your work have?
 
 # Conclusions and Future Work
