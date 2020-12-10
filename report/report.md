@@ -38,11 +38,11 @@ In the beginning of the project we knew that our overall goal was to come up wit
 
 Next, show your results. How well does your model and/or implementation perform? Did you meet your goals?
 
-![Hit AB ratio](hits.png "Hits based on number of at bats")
+![Hit AB ratio](figs/hits.png "Hits based on number of at bats")
 <center>Fig 1. Hits over At Bats</center>
 
 
-![Run per year](Figs/runs.png "Runs per year")
+![Run per year](figs/runs.png "Runs per year")
 <center>Fig 2. Runs per Year Trend</center>
 
 
