@@ -34,6 +34,8 @@ Briefly summarize any changes in your project goals or implementation plans you 
 These changes are a natural part of any project, even those that seem the most straightforward at the beginning.
 The story you tell about how you arrived at your results can powerfully illustrate your process. 
 
+In the beginning of the project we knew that our overall goal was to come up with a way to analyze data from MLB players and come up with a "formula" of sorts to correlate different stats back to hitting leaders. This lead us to first question what stats we wanted to keep. In the process of cleaning the data we made several iterations and eventually came up with the plan to keep only stats that relate to hitting directly (ie: Hits, Plate Apperances, At Bats, etc.). 
+
 Next, show your results. How well does your model and/or implementation perform? Did you meet your goals?
 
 ![Hit AB ratio](hits.png "Hits based on number of at bats")
