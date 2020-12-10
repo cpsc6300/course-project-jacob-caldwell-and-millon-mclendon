@@ -12,6 +12,9 @@ This problem is important because there has been a recent shift within professio
 
 This problem is challenging because there are multiple statistics that are used in collaboration with others that help teams to determine a player's worth. We are attempting to use some of these statistics to help better gauge a player's worth to the team, which is a challenging and complex problem that many teams are still trying to solve
 
+![Data Figures](figs/data.png "Player Data")
+<center>Fig 1. Player Data Overview</center>
+
 # Literature Review/Related Work 
 The literature we collected during our project mainly reflected different approaches researchers used to make inferences on games, but also trying to gain knowledge of the angles used and possibly new angles to come from.
 
@@ -44,7 +47,6 @@ Next, show your results. How well does your model and/or implementation perform?
 
 ![Run per year](figs/runs.png "Runs per year")
 <center>Fig 2. Runs per Year Trend</center>
-
 
 Finally, give some interpretation. What do your results mean? What impact will your work have?
 
