@@ -26,7 +26,7 @@ The literature we collected during our project mainly reflected different approa
 # Modeling Approach
 
 + The baseline model for our project involved taking in statistical data on MLB seasons 2010-2016 and cleaning it to only show stats involved with hitting.
-+ Describe your implementations beyond the baseline model and the design choices that you have made.
++ After our baseline we decided to add more data to our csv and attempted to fit the model based on "salaried" players so we had updated and accurate data.
 
 # Project Trajectory, Results, and Interpretation 
 
