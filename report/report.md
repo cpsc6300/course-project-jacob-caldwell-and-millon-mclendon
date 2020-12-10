@@ -36,6 +36,10 @@ The story you tell about how you arrived at your results can powerfully illustra
 
 Next, show your results. How well does your model and/or implementation perform? Did you meet your goals?
 
+![Hit AB ratio](hits.png "Hits based on number of at bats")
+<center>Fig 1. Hits over At Bats</center>
+
+
 Finally, give some interpretation. What do your results mean? What impact will your work have?
 
 # Conclusions and Future Work
