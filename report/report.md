@@ -42,7 +42,7 @@ Next, show your results. How well does your model and/or implementation perform?
 <center>Fig 1. Hits over At Bats</center>
 
 
-![Run per year](runs.png "Runs per year")
+![Run per year](Figs/runs.png "Runs per year")
 <center>Fig 2. Runs per Year Trend</center>
 
 
