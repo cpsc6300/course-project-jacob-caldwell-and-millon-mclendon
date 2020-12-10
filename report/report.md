@@ -13,11 +13,19 @@ This problem is important because there has been a recent shift within professio
 This problem is challenging because there are multiple statistics that are used in collaboration with others that help teams to determine a player's worth. We are attempting to use some of these statistics to help better gauge a player's worth to the team, which is a challenging and complex problem that many teams are still trying to solve
 
 # Literature Review/Related Work 
-This could include noting any key papers, texts, or websites that you have used to develop your modeling approach, as well as what others have done on this problem in the past. You must properly credit sources.
+The literature we collected during our project mainly reflected different approaches researchers used to make inferences on games, but also trying to gain knowledge of the angles used and possibly new angles to come from.
+
+[1] Valero, C. S. (2016). Predicting Win-Loss outcomes in MLB regular season games–A comparative study using data mining methods. International Journal of Computer Science in Sport, 15(2), 91-112.
+
+[2] Sommers, P. M. (2008). The changing hitting performance profile in major league baseball, 1966-2006. Journal of Sports Economics, 9(4), 435-440.
+
+[3] “Scikit-Learn Tutorial: Baseball Analytics in Python Pt 1.” DataCamp Community, www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1. 
+
+[4] Dhar, V. (2013). Data science and prediction. Communications of the ACM, 56(12), 64-73.
 
 # Modeling Approach
 
-+ Describe the baseline model.
++ The baseline model for our project involved taking in statistical data on MLB seasons 2010-2016 and cleaning it to only show stats involved with hitting.
 + Describe your implementations beyond the baseline model and the design choices that you have made.
 
 # Project Trajectory, Results, and Interpretation 
