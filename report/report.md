@@ -45,11 +45,11 @@ Summarize your results, the strengths and short-comings of your results, and spe
 https://data.world/makeovermonday/2019w19/workspace/file?filename=MLB%20Stats.csv We will be using data.world for most of our csv files on MLB statistics and also adding more research papers in the future.
 
 # Support Materials
-Provide a list of materials that support your project, for example, the notebooks and data sources.
++ juypter notebook title project.ipynb
++ All pictures contained in the folder ~/Figs
++ mlb.csv obtained from data.world
 
 # Declaration of academic integrity and responsibility
-
-In your report, you should include a declaration of academic integrity as follows:
 
 ```
 With my signature, I certify on my honor that:
