@@ -42,6 +42,10 @@ Next, show your results. How well does your model and/or implementation perform?
 <center>Fig 1. Hits over At Bats</center>
 
 
+![Run per year](runs.png "Runs per year")
+<center>Fig 2. Runs per Year Trend</center>
+
+
 Finally, give some interpretation. What do your results mean? What impact will your work have?
 
 # Conclusions and Future Work
