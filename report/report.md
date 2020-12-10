@@ -33,17 +33,12 @@ The literature we collected during our project mainly reflected different approa
 
 # Project Trajectory, Results, and Interpretation 
 
-Briefly summarize any changes in your project goals or implementation plans you have made.
-These changes are a natural part of any project, even those that seem the most straightforward at the beginning.
-The story you tell about how you arrived at your results can powerfully illustrate your process. 
+In the beginning of the project we knew that our overall goal was to come up with a way to analyze data from MLB players and come up with a "formula" of sorts to correlate different stats back to hitting leaders. This lead us to first question what stats we wanted to keep. In the process of cleaning the data we made several iterations and eventually came up with the plan to keep only stats that relate to hitting directly (ie: Hits, Plate Apperances, At Bats, etc.).
 
-In the beginning of the project we knew that our overall goal was to come up with a way to analyze data from MLB players and come up with a "formula" of sorts to correlate different stats back to hitting leaders. This lead us to first question what stats we wanted to keep. In the process of cleaning the data we made several iterations and eventually came up with the plan to keep only stats that relate to hitting directly (ie: Hits, Plate Apperances, At Bats, etc.). 
-
-Next, show your results. How well does your model and/or implementation perform? Did you meet your goals?
+Over the course of our project, our focus shifted between different specific parts of the MLB to help us better determine and analyze more specifics of how a team fares with better batters. We initially were wanting to predict who would be the next year's best batter, but as we started to dig into the data, we became more interested in how these different batter's affected their teams and what it meant for a better player to have more at bats. This was then used to help us better determine the effects that they have and how they stack up in this method. 
 
 ![Hit AB ratio](figs/hits.png "Hits based on number of at bats")
 <center>Fig 1. Hits over At Bats</center>
-
 
 ![Run per year](figs/runs.png "Runs per year")
 <center>Fig 2. Runs per Year Trend</center>
@@ -51,7 +46,9 @@ Next, show your results. How well does your model and/or implementation perform?
 ![Runs vs Ab](figs/runVab.png "Runs vs At Bats")
 <center>Fig 3. Runs Versus At Bats Correllation</center>
 
-Finally, give some interpretation. What do your results mean? What impact will your work have?
+The results that we found in the above graphs helped us to better determine coorelations within the MLB. While some of the data wasn't necessarily the most helpful, we were able to use these results to help us determine that there was indeed a coorelation between. We were able to notice that as the at bats increased, the hits also increased and the batting average (hits / at bats) tended to increase as well. We also noticed that as the amount of at bats increased, the number of runs that were scored per game also increased, showing that the players that had more at bats contributed more to their team with more runs, bettering their team's chances of winning. 
+
+We have been able to interpret a lot from these graphs. In particular, we noticed in the second graph which notes runs per year that there were multiple different spikes that appeared to be random. However, looking into the history of the MLB, we found out that the huge spike in 2000 is likely due to the fact that steroids became legal within the USA around that time, which likely also resulted in a lot of players taking performance enhancing drugs to perform better. This would play a direct cause into obtaining more hits and runs as a result. There were also great lows, which is also likely as a result of these drugs beginning to become banned from professional competition. It has been quite fascinating to see how these results have real life coorelations. 
 
 # Conclusions and Future Work
 Summarize your results, the strengths and short-comings of your results, and speculate on how you might address these short-comings if given more time.
